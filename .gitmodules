@@ -4,3 +4,6 @@
 [submodule "react-apps"]
 	path = react-apps
 	url = https://github.com/mars-96/react-apps.git
+[submodule "todoapp"]
+	path = todoapp
+	url = https://github.com/mars-96/todoapp.git
