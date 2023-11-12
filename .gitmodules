@@ -1,0 +1,6 @@
+[submodule ".react-apps"]
+	path = .react-apps
+	url = https://github.com/mars-96/react-apps.git
+[submodule "react-apps"]
+	path = react-apps
+	url = https://github.com/mars-96/react-apps.git
